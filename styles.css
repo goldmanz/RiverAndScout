@@ -1,0 +1,57 @@
+
+  Body {
+    background-color: black;
+    font-family: 'courier new', courier;
+    color: white;
+  }
+  header {
+    text-align: center;
+    font-style: normal;
+  }
+  h1 {
+    font-size: 70px ;
+  }
+  h2 {
+    font-size: 50px ;
+  }
+  h3 {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .character {
+    font-weight: bold;
+  }
+  .action, .dialogue  {
+    font-style: italic;
+    line-height: 2;
+  }
+
+  #aLongTimeAgo {
+    color: dodgerblue;
+    font-style: normal;
+  }
+  #crawl {
+    color: yellow;
+    font-style: normal;
+  }
+  ul {
+    list-style: none;
+  }
+  li {
+    display: inline;
+  }
+
+  p {
+    padding: 3px 20px;
+    border: 10px solid pink;
+    margin: 20px;
+    background-color: deeppink;
+  }
+  img {
+    width: 300px;
+    margin: 10px auto;
+    padding: 50px;
+    border: 10px solid pink;
+    background-color: deeppink;
+
+  }
