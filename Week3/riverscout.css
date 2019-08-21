@@ -15,7 +15,7 @@
     }
     h1 {
       font-size: 50px ;
-      text-align: right ;
+      text-align: center ;
     }
     h2 {
       font-size: 30px;
@@ -69,8 +69,8 @@
         padding: 0.8em 1.2em;
         overflow: hidden;
         list-style: none;
-        background: fade(pink,80%);
-        justify-content: center;
+        background: pink;
+        border: 2px solid #FFFEDA;
     }
     .row-table .row-table-cell  {
       width: 33.33%;

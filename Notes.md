@@ -157,4 +157,16 @@
   - KEY TERMS
     - Repository = a project folder
     - Commit = a "snapshot of time." Give it a good message so you can understand what the changes were
-    - Branches = multiple versions of the project. You can work along multiple lines, but wont go into main project until you merge 
+    - Branches = multiple versions of the project. You can work along multiple lines, but wont go into main project until you merge
+  - Git workflow
+    - Everything is untracked until you add a file to be tracked
+    - If you edit, file becomes modified. To save changes, you "stage" the file. When you commit, it then becomes "unmodified" again.
+    - To remove the file from the repository, it becomes untracked
+  - GITHUB
+    - A collaboration platform built on top of Git
+      - Big Open Source support (open source like global trouble shooting...)
+    - Issue = discussion thread
+    - Pull request = makes your changes visible to others on the team
+    - Read Me -- should always have a "ReadMe.md" that tells people what the project is, how to interact with it. Github will show you the readme at the bottom of the page.
+    - Adding a project to GITHUB
+      - 
