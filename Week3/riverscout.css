@@ -46,6 +46,9 @@
       border: 5px solid pink;
 
     }
+    a {
+      color: #670BF0 ;
+    }
     .centerflex{
       display: flex;
       justify-content: center;
